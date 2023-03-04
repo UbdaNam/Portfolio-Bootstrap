@@ -22,7 +22,7 @@
 
 # 📖 Portfolio <a name="about-project"></a>
 
-**Portfolio: Mobile only** is a portfolio only for mobile devices built with HTML and CSS.
+**Portfolio-Bootstrap** is a portfolio only for mobile devices built with HTML and CSS.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -33,6 +33,7 @@
   <ul>
     <li>HTML</li>
     <li>CSS</li>
+    <li>Bootstrap</li>
   </ul>
 </details>
 
